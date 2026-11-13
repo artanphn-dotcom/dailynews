@@ -335,6 +335,11 @@ The project is designed to remain lightweight, modular, and easy to extend.
 
 ---
 
+
+## © Copyright
+
+Copyright © 2026 Artan V. All rights reserved.
+
 ## 📜 License
 
 Provided as-is for operational monitoring, educational purposes, and internal use.
